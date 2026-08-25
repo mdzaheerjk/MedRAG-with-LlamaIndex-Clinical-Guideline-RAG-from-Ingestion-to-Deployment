@@ -1,4 +1,5 @@
 # MedRAG-with-LlamaIndex-Clinical-Guideline-RAG-from-Ingestion-to-Deployment
+Build a production-ready clinical-guideline question-answering system with LlamaIndex powering document ingestion, indexing, retrieval, and grounded generation. Students will use LlamaParse and PubMedReader to create LlamaIndex documents, then chunk and embed them into a Qdrant-backed VectorStoreIndex queried through an OpenAI-powered LlamaIndex query engine. The project completes the system with evaluations, FastAPI and Streamlit interfaces, Docker CI/CD deployment, and API-boundary input and output guardrails.
 ## Project Preview
 
 <p align="center">
